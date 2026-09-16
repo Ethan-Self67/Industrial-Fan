@@ -2,6 +2,7 @@ Industrial Test Fan Setup
 
 Project Overview:
 This project tests airflow efficiency across different fan blade geometries for Athule clients, similar in concept to a common computer fan but scaled up for real testing data. The setup is built around a 5-foot-long cylinder with 3D-printed flow straighteners inside, along with openings that let air flow in and get measured by sensors both before and after passing through the blade. This lets us compare how different blade geometries affect airflow efficiency under consistent conditions.
+
 ![Schematic](industrial_testfan_schematic_blurred.webp)
 
 My Role:
